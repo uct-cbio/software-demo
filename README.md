@@ -1,36 +1,29 @@
 # software-demo
 
-This repo is a template for creating a github pages project to release CBIO-developed software.
+This repo is a skeleton for creating a github pages project to release CBIO-developed software.
+
+It uses the [github pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site) feature
 
 
-https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
+You can use the [editor on GitHub](https://github.com/uct-cbio/software-demo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 ### Theme
  
- This site uses a slightly modified version of the [minimal](https://github.com/pages-themes/minimal) Jekyll Theme (hints for customisation there)
+ This site uses a slightly modified version of the *"[minimal](https://github.com/pages-themes/minimal)"* Jekyll Theme (hints for customisation there)
 
   - Layout can be tweaked by editing _layout/default.html
 
 
 ----
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/uct-cbio/software-demo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Markdown examples:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### [Releases]()
-
- - RDP 1
- - RDP 2
- 
 ```markdown
 Syntax highlighted code block
 
@@ -57,6 +50,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
