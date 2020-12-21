@@ -1,4 +1,4 @@
-# Usage
+# Download/usage
 
 RDP runs well under Windows 95/98/NT/XP/VISTA/7/8 and may/may not run properly under Windows 10. RDP also runs well on most windows emulators. For Mac users PlayOnMac is recommended and for Linux users Wine is recommended. You may download:
 
