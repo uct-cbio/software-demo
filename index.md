@@ -47,5 +47,5 @@ Martin DP, Murrell B, Golden M, Khoosal A, & Muhire B (2015) RDP4: Detection and
   - RF matrices: Simmonds, P. & Welch, J. (2006). Frequency and dynamics of recombination within different species of human enteroviruses. J Virol 80, 483-493.
 
 
-##### To be informed about bugs or updates email [Darren Martin](darrenpatrickmartin@gmail.com).
+##### To be informed about bugs or updates email [Darren Martin](mailto:darrenpatrickmartin@gmail.com).
 
