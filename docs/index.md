@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Releases
+### [Releases](https://github.com/uct-cbio/software-demo/releases)
 
  - RDP 1
  - RDP 2
