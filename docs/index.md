@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Releases
+
+ - RDP 1
+ - RDP 2
+ 
 ```markdown
 Syntax highlighted code block
 
