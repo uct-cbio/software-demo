@@ -1,8 +1,17 @@
 # software-demo
-Testing github for hosting releases of in-house software
+
+This repo is a template for creating a github pages project to release CBIO-developed software.
 
 
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
+
+
+
+### Theme
+ 
+ This site uses a slightly modified version of the [minimal](https://github.com/pages-themes/minimal) Jekyll Theme (hints for customisation there)
+
+  - Layout can be tweaked by editing _layout/default.html
 
 
 ----
@@ -17,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### [Releases](https://github.com/uct-cbio/software-demo/releases)
+### [Releases]()
 
  - RDP 1
  - RDP 2

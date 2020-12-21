@@ -2,6 +2,8 @@
 
 RDP runs well under Windows 95/98/NT/XP/VISTA/7/8 and may/may not run properly under Windows 10. RDP also runs well on most windows emulators. For Mac users PlayOnMac is recommended and for Linux users Wine is recommended. You may download:
 
+## Releases:
+ - Full list of releases [here](https://github.com/uct-cbio/software-demo/releases)
  - the most up to date (but still a little unstable) version of the program (RDP5 Beta 5.05 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
  - the most up to date stable version of the program (RDP4.101 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
 an old version of the program (RDP3.44 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
