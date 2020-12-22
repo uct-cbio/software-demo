@@ -6,7 +6,7 @@ RDP runs well under Windows 95/98/NT/XP/VISTA/7/8 and may/may not run properly u
  - Full list of releases [here](https://github.com/uct-cbio/software-demo/releases)
  - the most up to date (but still a little unstable) version of the program (RDP5 Beta 5.05 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
  - the most up to date stable version of the program (RDP4.101 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
-an old version of the program (RDP3.44 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
+ - an old version of the program (RDP3.44 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
  - a [user manual](https://github.com/uct-cbio/software-demo/raw/main/pdfs/RDP4Manual.pdf)
  - a very old version of the program, RDP2, that can be used to load and explore older project files (RDP2 and earlier)
 
@@ -19,9 +19,11 @@ an old version of the program (RDP3.44 including VB runtimes, accesory apps, LDH
  - RDP3 will not work on any 64 bit versions of Windows.
 
 
-### Please cite:
+### Citation
 
-Martin DP, Murrell B, Golden M, Khoosal A, & Muhire B (2015) RDP4: Detection and analysis of recombination patterns in virus genomes. Virus Evolution 1: vev003 doi: 10.1093/ve/vev003[PDF]
+#### Please cite:
+
+ - Martin DP, Murrell B, Golden M, Khoosal A, & Muhire B (2015) RDP4: Detection and analysis of recombination patterns in virus genomes. Virus Evolution 1: vev003 doi: 10.1093/ve/vev003[PDF]
 
 #### Also, if you use any of the following features in RDP4 please cite the appropriate papers:
 
@@ -48,6 +50,4 @@ Martin DP, Murrell B, Golden M, Khoosal A, & Muhire B (2015) RDP4: Detection and
   - Tree topology comparisons or SH matrices: Shimodaira, H. & Hasegawa M. (2001) CONSEL: for assessing the confidence of phlogenetic tree selection. Bioinformatics 17, 1246-1247.
   - RF matrices: Simmonds, P. & Welch, J. (2006). Frequency and dynamics of recombination within different species of human enteroviruses. J Virol 80, 483-493.
 
-
 ##### To be informed about bugs or updates email [Darren Martin](mailto:darrenpatrickmartin@gmail.com).
-
