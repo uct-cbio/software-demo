@@ -12,9 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Theme
  
- This site uses a slightly modified version of the *"[minimal](https://github.com/pages-themes/minimal)"* Jekyll Theme (hints for customisation there)
+ This site uses a slightly modified version of the **"[minimal](https://github.com/pages-themes/minimal)"** Jekyll Theme (hints for customisation there)
 
-  - Layout can be tweaked by editing _layout/default.html
+  - Layout can be tweaked by editing `_layout/default.html` in this repo
 
 
 ----
