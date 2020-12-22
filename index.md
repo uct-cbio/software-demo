@@ -7,7 +7,7 @@ RDP runs well under Windows 95/98/NT/XP/VISTA/7/8 and may/may not run properly u
  - the most up to date (but still a little unstable) version of the program (RDP5 Beta 5.05 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
  - the most up to date stable version of the program (RDP4.101 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
 an old version of the program (RDP3.44 including VB runtimes, accesory apps, LDHat lookup tables and a large 3Seq p-value lookup table)
- - a user manual
+ - a [user manual](pdfs/RDP4Manual.pdf)
  - a very old version of the program, RDP2, that can be used to load and explore older project files (RDP2 and earlier)
 
 
